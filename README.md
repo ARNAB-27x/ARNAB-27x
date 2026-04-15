@@ -1,9 +1,7 @@
-<!-- 🔥 HEADER BANNER -->
-
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 <h3 align="center">💻 Student | 🚀 Full Stack Learner | ⚡ Future Engineer</h3>
 
-<!-- ⚡ TYPING ANIMATION -->
+<!-- ⚡ Typing Animation -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Repeat.;Web+Developer+in+Progress;Flask+%7C+Python+%7C+JavaScript;Always+Learning+New+Things" />
@@ -16,7 +14,7 @@
 * 🎓 Student passionate about tech
 * 💡 Learning Full Stack Development
 * ⚙️ Building projects using Flask & JS
-* 🚀 Goal: Become a strong developer
+* 🚀 Goal: Become a powerful developer
 
 ---
 
@@ -34,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 </p>
 
-### ⚙️ Backend & DB
+### ⚙️ Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,mysql" />
@@ -42,35 +40,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARNAB-27x&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARNAB-27x&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=ARNAB-27x&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 👁️ Visitors Counter
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ARNAB-27x&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ARNAB-27x/ARNAB-27x/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARNAB-27x&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ARNAB-27x.ARNAB-27x" />
 </p>
 
 ---
@@ -81,6 +62,9 @@
   <a href="https://github.com/ARNAB-27x">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -88,9 +72,9 @@
 ## 💬 Dev Quote
 
 <p align="center">
-  <i>"Eat. Sleep. Code. Repeat."</i>
+  <i>"Stay consistent. Build daily. Win silently."</i>
 </p>
 
 ---
 
-⭐ From Arnab (Future Legend 😎)
+⭐ From Arnab 😎
