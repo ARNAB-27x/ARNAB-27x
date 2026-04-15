@@ -1,3 +1,9 @@
+<!-- 🔥 ANIMATED BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ARNAB%20DEY&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 <h3 align="center">💻 Student | 🚀 Full Stack Learner | ⚡ Future Engineer</h3>
 
@@ -36,6 +42,14 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARNAB-27x&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
