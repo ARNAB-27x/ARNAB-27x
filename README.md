@@ -49,17 +49,12 @@
 
 
 ---
-### 📊 GitHub Stats  
-<div align="center">
+## 📊 GitHub Stats
 
-<a href="https://github.com/ankit3060">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ARNAB-27x&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARNAB-27x&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARNAB-27x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit3060&theme=tokyonight&hide_border=true" />
-
-</div>
 ## 👀 Profile Views
 
 <p align="center">
