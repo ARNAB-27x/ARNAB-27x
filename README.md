@@ -46,26 +46,6 @@
 
 ---
 
-
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ARNAB-27x&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARNAB-27x&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ARNAB-27x&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 👁️ Visitors Counter
 
 <p align="center">
@@ -82,6 +62,9 @@
   </a>
   <a href="https://www.instagram.com/arnab.27x/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/deyarnab435/">
+    <img src="blob:https://chatgpt.com/b65329c7-da1c-416f-a6c0-1d40a1c8eba1" />
   </a>
 </p>
 
