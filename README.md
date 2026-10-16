@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/deyarnab435/">
-    <img src="blob:https://chatgpt.com/b65329c7-da1c-416f-a6c0-1d40a1c8eba1" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXxJs7S2ni0HzMzIKIeBCFv9kp6RM8zPdbydEzOeWCelCeAcJzPqWQjs&s=10" />
   </a>
 </p>
 
